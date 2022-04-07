@@ -38,11 +38,11 @@ to test or run the application double click on the `index.html` file to open in 
 
 ## Authors
 
-👤 **Melaku Eshetu**
+👤 **Collins Mezie**
 
-- GitHub: [@melaku05](https://github.com/melaku05)
-- Twitter: [@melaku](https://twitter.com/melaku05)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/melaku-eshetu-b34b36223/)
+- GitHub: [@collinsmezie](https://github.com/collinsmezie)
+- Twitter: [@collinsmezie1](https://twitter.com/collinsmezie1)
+- LinkedIn: [@collinsmezie](https://www.linkedin.com/collinsmezie/)
 
 ## 🤝 Contributing
 
