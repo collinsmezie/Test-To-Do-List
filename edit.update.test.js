@@ -30,21 +30,21 @@ describe('Testing the addNewTask function', () => {
       },
     ]);
   });
-  // test('Test creating the elements "Dom" after adding new tasks', () => {
-  //   saveStorage([]);
-  //   addNewTask(newTodoInput);
-  //   addNewTask(newTodoInput);
-  //   addNewTask(newTodoInput);
-  //   const items = Array.from(document.querySelectorAll('.list-item')).length;
-  //   expect(items).toBe(3);
-  // });
+  test('Test creating the elements "Dom" after adding new tasks', () => {
+    saveStorage([]);
+    addNewTask(newTodoInput);
+    addNewTask(newTodoInput);
+    addNewTask(newTodoInput);
+    const items = Array.from(document.querySelectorAll('.list-item')).length;
+    expect(items).toBe(3);
+  });
 });
-// test('test the function trashTask', () => {
-//   saveStorage([]);
-//   addNewTask(newTodoInput);
-//   addNewTask(newTodoInput);
-//   trashTask(1);
-//   expect(getStorage().length).toBe(1);
-//   trashTask(0);
-//   expect(getStorage().length).toBe(0);
-// });
+test('test the function trashTask', () => {
+  saveStorage([]);
+  addNewTask(newTodoInput);
+  addNewTask(newTodoInput);
+  trashTask(1);
+  expect(getStorage().length).toBe(1);
+  trashTask(0);
+  expect(getStorage().length).toBe(0);
+});
