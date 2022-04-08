@@ -3,6 +3,7 @@ import addNewTask from './src/addlist.js';
 import trashCompleted from './src/completed.js';
 import check from './src/check.js';
 import { getStorage, saveStorage } from './src/storage.js';
+
 jest.mock('./src/storage.js');
 jest.mock('./src/populateList.js');
 jest.mock('./src/check.js');
