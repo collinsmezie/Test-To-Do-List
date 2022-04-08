@@ -42,7 +42,7 @@ to test or run the application double click on the `index.html` file to open in 
 
 - GitHub: [@collinsmezie](https://github.com/collinsmezie)
 - Twitter: [@collinsmezie1](https://twitter.com/collinsmezie1)
-- LinkedIn: [@collinsmezie](https://www.linkedin.com/collinsmezie/)
+- LinkedIn: [@collinsmezie](https://www.linkedin.com/in/@collinsmezie/)
 
 ## 🤝 Contributing
 
